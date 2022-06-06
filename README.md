@@ -57,15 +57,13 @@ The panel at the bottom of IntelliJ now shows a lot of information to help us
 understand what's happening in the program and give us options on how to
 proceed.
 
-1. Execution is currently on line 9
-
+1. Execution is currently on line 9 
 ![exec-on-line-9.png](https://curriculum-content.s3.amazonaws.com/java-mod-2/type-casting/exec-on-line-9.png)
 
 2. You can inspect any of the values in your program or add the name of a
    specific variable to keep a "watch" on, which will pop the variable in that
    panel when it comes into scope:
-
-![inspect-variables.png](https://curriculum-content.s3.amazonaws.com/java-mod-2/type-casting/inspect-variables.png)
+   ![inspect-variables.png](https://curriculum-content.s3.amazonaws.com/java-mod-2/type-casting/inspect-variables.png)
 
 3. Once you have inspected all the values you're currently interested in, you
    can choose how to proceed with the execution of the program:
