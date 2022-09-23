@@ -63,11 +63,10 @@ proceed.
 ![exec-on-line-11.png](https://curriculum-content.s3.amazonaws.com/java-mod-3/debugger/exec-on-line11.png)
 
 2. We can inspect any of the variable values in our program.
-   ![inspect-variables.png](https://curriculum-content.s3.amazonaws.com/java-mod-3/debugger/inspect-variables.png)
+![inspect-variables.png](https://curriculum-content.s3.amazonaws.com/java-mod-3/debugger/inspect-variables.png)
 
 3. Once we have inspected all the values we may be interested in, we
    can choose how to proceed with the execution of the program:
-
 ![execution-options.png](https://curriculum-content.s3.amazonaws.com/java-mod-3/debugger/debugger-options.png)
 
 1. Step Over (![step-over](https://curriculum-content.s3.amazonaws.com/java-mod-3/debugger/step-over.png)):
